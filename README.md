@@ -9,7 +9,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
     <img src="https://img.shields.io/badge/Built%20by-Karma-1f425f.svg" />
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img src="https://img.shields.io/badge/Maintained%3F-No-red.svg" />
 </p>
 
 <p align="center">
