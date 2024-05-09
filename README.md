@@ -1,4 +1,4 @@
-# Sorteos Web
+# Tablero con 100 números
 
 **Comenzamos creando un tablero interactivo con 100 números utilizando HTML, CSS y JavaScript. Implementamos la capacidad de marcar cada número con una "X" al hacer clic en él, junto con una función para desmarcar todos los números con un solo clic.**
 
